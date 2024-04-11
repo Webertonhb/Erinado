@@ -1,0 +1,20 @@
+package condicional;
+
+import java.util.Scanner;
+
+public class Figonat {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int cont, num1, num2;
+		float res;
+		Scanner sc = new Scanner(System.in);
+		num1 = 0;
+		num2 = 1;
+		System.out.println(num1,num2);
+		cont= sc.nextInt();
+		for (cont = 3; cont <= 8; cont++) {
+			
+		}
+	}
+}
